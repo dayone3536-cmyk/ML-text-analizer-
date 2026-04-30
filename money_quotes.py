@@ -1,0 +1,60 @@
+# 50 quotes
+
+def money():
+    money_quotes = [
+    {"quote": "Money grows where discipline lives."},
+    {"quote": "Wealth is built one habit at a time."},
+    {"quote": "Earn more, learn more."},
+    {"quote": "Save first, spend later."},
+    {"quote": "Small savings create big freedom."},
+    {"quote": "Skills pay better than excuses."},
+    {"quote": "Money follows value."},
+    {"quote": "Invest in yourself first."},
+    {"quote": "Rich habits beat lucky moments."},
+    {"quote": "Every rupee needs a purpose."},
+    {"quote": "Consistency builds income."},
+    {"quote": "A budget gives money direction."},
+    {"quote": "Wealth loves patience."},
+    {"quote": "Spend less than you earn."},
+    {"quote": "Income grows with ability."},
+    {"quote": "Learn today, earn tomorrow."},
+    {"quote": "Money rewards problem solvers."},
+    {"quote": "Discipline is profitable."},
+    {"quote": "Freedom is funded by wise choices."},
+    {"quote": "Stack skills, stack income."},
+    {"quote": "The best investment is knowledge."},
+    {"quote": "Your habits shape your wallet."},
+    {"quote": "Wealth starts with control."},
+    {"quote": "Action creates opportunity."},
+    {"quote": "Delayed pleasure builds wealth."},
+    {"quote": "Build assets, not excuses."},
+    {"quote": "Money respects responsibility."},
+    {"quote": "Financial peace comes from planning."},
+    {"quote": "Think long term, win long term."},
+    {"quote": "Opportunity hides in effort."},
+    {"quote": "More value, more income."},
+    {"quote": "Success pays compound interest."},
+    {"quote": "Save consistently, stress less."},
+    {"quote": "Every coin can become capital."},
+    {"quote": "Wealth is quiet discipline."},
+    {"quote": "Earn with skill, keep with wisdom."},
+    {"quote": "Money can be multiplied by patience."},
+    {"quote": "A side hustle can change everything."},
+    {"quote": "Use money as a tool, not a trophy."},
+    {"quote": "Smart risks create new doors."},
+    {"quote": "Control spending, control stress."},
+    {"quote": "Your future self needs savings."},
+    {"quote": "Wealth grows in silence."},
+    {"quote": "Focus on assets over appearances."},
+    {"quote": "Money loves consistency."},
+    {"quote": "Build income streams, not excuses."},
+    {"quote": "Learn business, learn freedom."},
+    {"quote": "Strong mindset, strong finances."},
+    {"quote": "Start small, grow big."},
+    {"quote": "Money is a servant, not a master."}
+]
+
+    return money_quotes
+   
+
+
